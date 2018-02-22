@@ -1,0 +1,9 @@
+Building Chosn
+
+See doc/readme-qt.rst for instructions on building Chosn-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Chosn.
+
+See doc/build-*.txt for instructions on building chosnd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Chosn.
